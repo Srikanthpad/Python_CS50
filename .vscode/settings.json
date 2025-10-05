@@ -1,0 +1,18 @@
+{
+  "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "onFocusChange",
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.showExecutionMessage": false,
+  "github.copilot.chat.useProjectTemplates": false,
+  "github.copilot.chat.welcomeMessage": "never",
+  "workbench.editor.empty.hint": "hidden",
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.nextEditSuggestions.fixes": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "output.smartScroll.enabled": true,
+  "chat.detectParticipant.enabled": true
+}
